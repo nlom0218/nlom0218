@@ -15,8 +15,11 @@ My goal is to create useful tools for teachers. Not only that, but if I personal
 - 2021.10.28: Team Choco organized(made up of elementary school teachers), [초등학교사의 코딩 프로젝트](https://sparkly-corleggy-3e4.notion.site/18b5b5b23fb84323b5a2a0b71c9980fd)
 
 #### My project 👣
-- quizquiz 💣 [quizquiz repo](https://github.com/nlom0218/quizquiz)
-- quizhi 💣 [quizhi front repo](https://github.com/nlom0218/quiz-hi2), [quizhi back repo](https://github.com/nlom0218/quiz-hi-backend)
+- kakao clone [Github Pages](https://nlom0218.github.io/kakao-clone-my/) - **nomadcoders**
+- wetube 💣 [wetube](https://github.com/nlom0218/wetube) - **nomadcoders**
+- nomadcoffee 💣 [frontRepo](https://github.com/nlom0218/nomadcoffee-frontend) [backRepo](https://github.com/nlom0218/nomadcoffee-backend) [nativeRepo](https://github.com/nlom0218/nomadcoffe-native) - **nomadcoders**
+- quizquiz 💣 [quizquizRepo](https://github.com/nlom0218/quizquiz)
+- quizhi 💣 [frontRepo](https://github.com/nlom0218/quiz-hi2), [backRepo](https://github.com/nlom0218/quiz-hi-backend)
 - teachercan [티처캔](https://teachercan.com) with team choco
 
 #### Learning 🚀
