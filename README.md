@@ -6,20 +6,21 @@
 My goal is to create useful tools for teachers. Not only that, but if I personally have an idea that comes to mind, I'd like to implement it immediately.
 
 #### My school life 👨‍🏫
-- 2018.5.14 ~ 2022.2.28: Damok elementary school
-- 2022.3.1 ~ : Seo Won-ju elementary school
-- 2022.3.1 ~ : Gangwon-do Education Research Group (Choco Edutech Research Group) operation
+- 2018.05.14 ~ : Damok elementary school
+- 2022.03.01 ~ : Seo Won-ju elementary school
+- 2022.03.01 ~ : Gangwon-do Education Research Group (Choco Edutech Research Group) operation
 
 #### My coding life 🧑‍💻
 - 2019.11.20: My first commit
 - 2021.10.28: Team Choco organized(made up of elementary school teachers), [초등학교사의 코딩 프로젝트](https://sparkly-corleggy-3e4.notion.site/18b5b5b23fb84323b5a2a0b71c9980fd)
+- 2021.12.01: Join a Unity Study Meeting(made up of elementary school teachers)
 
 #### My project 👣
 - kakao clone [Github Pages](https://nlom0218.github.io/kakao-clone-my/) - **nomadcoders**
 - wetube 💣 [wetube](https://github.com/nlom0218/wetube) - **nomadcoders**
 - nomadcoffee 💣 [frontRepo](https://github.com/nlom0218/nomadcoffee-frontend) [backRepo](https://github.com/nlom0218/nomadcoffee-backend) [nativeRepo](https://github.com/nlom0218/nomadcoffe-native) - **nomadcoders**
 - quizquiz 💣 [quizquizRepo](https://github.com/nlom0218/quizquiz)
-- quizhi 💣 [frontRepo](https://github.com/nlom0218/quiz-hi2), [backRepo](https://github.com/nlom0218/quiz-hi-backend)
+- quizhi 💣 [퀴즈하이](https://quiz-hi.com) [frontRepo](https://github.com/nlom0218/quiz-hi2), [backRepo](https://github.com/nlom0218/quiz-hi-backend)
 - teachercan [티처캔](https://teachercan.com) with team choco
 
 #### Learning 🚀
