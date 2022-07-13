@@ -7,7 +7,7 @@
 ### My school life 👨‍🏫
 - 2018.05.14 ~ : Damok elementary school
 - 2022.03.01 ~ : Seo Won-ju elementary school
-- 2022.03.01 ~ : Gangwon-do Education Research Group (Choco Edutech Research Group) operation, 강원교육연구회-초코 에듀테크 연구회 조직
+- 2022.03.01 ~ : 강원교육연구회-초코 에듀테크 연구회 조직
 
 ### My coding life 🧑‍💻
 - 2019.11.20: My first commit
