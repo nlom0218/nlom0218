@@ -15,7 +15,7 @@
 - 2021.12.01: Re:play게임즈 참여(Unity스터디)
 - 2022.04.14: [노마드코더 인터뷰](https://nomadcoders.co/community/thread/5519)
 - 2022.06.09: 웹형 주간학습안내 Project 참여(team 타다닥)
-- 2022.07.09: TIL작성 시작! 꾸준히! 👉[TIL바로가기](https://nlom0218.github.io/TIL/)
+- 2022.07.09: TIL작성 시작! 꾸준히! 👉[TIL바로가기](https://kim-hong-dong.gitbook.io/til/)
 - 2022.07.10 ~: 리액트 스터디(zzolab 쪼리1기)
 - 2022.08.02 ~: 코딩 테스트 스터디
 
@@ -38,9 +38,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=flat-square&logo=Apollo%20GraphQL&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-![C%20Sharp](https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=C%20Sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnlom0218&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
