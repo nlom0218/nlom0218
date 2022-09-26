@@ -16,8 +16,9 @@
 - 2022.04.14: [노마드코더 인터뷰](https://nomadcoders.co/community/thread/5519)
 - 2022.06.09: 웹형 주간학습안내 Project 참여(team 타다닥)
 - 2022.07.09: TIL작성 시작! 꾸준히! 👉[TIL바로가기](https://kim-hong-dong.gitbook.io/til/)
-- 2022.07.10 ~: 리액트 스터디(zzolab 쪼리1기)
+- 2022.07.10 ~ 08.28: 리액트 스터디(zzolab 쪼리1기)
 - 2022.08.02 ~: 코딩 테스트 스터디
+- 2022.09.13 ~: CS 스터디
 
 ### My project 👣
 - kakao clone [Github Pages](https://nlom0218.github.io/kakao-clone-my/) - **nomadcoders**
