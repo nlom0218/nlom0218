@@ -21,12 +21,15 @@
 - 2022.09.13 ~: CS 스터디
 
 ### My project 👣
-- kakao clone [Github Pages](https://nlom0218.github.io/kakao-clone-my/) - **nomadcoders**
+- kakao clone [web](https://nlom0218.github.io/kakao-clone-my/) - **nomadcoders**
+- 백만장자 시크릿 - 2022.8.3 ~ 2020.8.15, [web](https://nlom0218.github.io/idea-project-1), [repo](https://github.com/nlom0218/idea-project-1)
+- 숫자야구 - 2020.11.27 ~ 2020.12.2, [web](https://nlom0218.github.io/Bulls-and-Cows/), [repo](https://github.com/nlom0218/Bulls-and-Cows)
+- 구구단 - 2020.11.25 ~ 2020.12.6, [web](https://github.com/nlom0218/Multiplication-table), [repo](https://nlom0218.github.io/Multiplication-table/)
 - wetube 💣 [wetube](https://github.com/nlom0218/wetube) - **nomadcoders**
 - nomadcoffee 💣 [frontRepo](https://github.com/nlom0218/nomadcoffee-frontend) [backRepo](https://github.com/nlom0218/nomadcoffee-backend) [nativeRepo](https://github.com/nlom0218/nomadcoffe-native) - **nomadcoders**
-- quizquiz 💣 [quizquizRepo](https://github.com/nlom0218/quizquiz)
-- quizhi 💣 [퀴즈하이](https://quiz-hi.com) [frontRepo](https://github.com/nlom0218/quiz-hi2), [backRepo](https://github.com/nlom0218/quiz-hi-backend)
-- teachercan [티처캔](https://teachercan.com) with team choco
+- quizquiz - 2021.4.8 ~ 2021.4.28, [web](https://cozy-licorice-c27d03.netlify.app/), [repo](https://github.com/nlom0218/quizquiz)
+- quizhi - 2021.7.12 ~ 2021.10.21, [web](https://quiz-hi.com) [frontRepo](https://github.com/nlom0218/quiz-hi2), [backRepo](https://github.com/nlom0218/quiz-hi-backend)
+- teachercan - 2021.11.13 ~ , [web](https://teachercan.com) with team choco
 
 ### Learning 🚀
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
