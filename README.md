@@ -22,7 +22,7 @@
 
 ### My project 👣
 - kakao clone [web](https://nlom0218.github.io/kakao-clone-my/) - **nomadcoders**
-- 백만장자 시크릿 - 2022.8.3 ~ 2020.8.15, [web](https://nlom0218.github.io/idea-project-1), [repo](https://github.com/nlom0218/idea-project-1)
+- 백만장자 시크릿 - 2020.8.3 ~ 2020.8.15, [web](https://nlom0218.github.io/idea-project-1), [repo](https://github.com/nlom0218/idea-project-1)
 - 숫자야구 - 2020.11.27 ~ 2020.12.2, [web](https://nlom0218.github.io/Bulls-and-Cows/), [repo](https://github.com/nlom0218/Bulls-and-Cows)
 - 구구단 - 2020.11.25 ~ 2020.12.6, [web](https://github.com/nlom0218/Multiplication-table), [repo](https://nlom0218.github.io/Multiplication-table/)
 - wetube 💣 [wetube](https://github.com/nlom0218/wetube) - **nomadcoders**
