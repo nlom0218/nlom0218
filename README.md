@@ -2,14 +2,14 @@
 
 # KIM HONG DONG 😁
 
-## 🧑‍💻 개발자를 꿈꾸는 초등교사 👨‍🏫
+# 🧑‍💻 개발자를 꿈꾸는 초등교사 👨‍🏫
 
-### My school life 👨‍🏫
+## My school life 👨‍🏫
 - 2018.05.14 ~ : Damok elementary school
 - 2022.03.01 ~ : Seo Won-ju elementary school
 - 2022.03.01 ~ : 강원교육연구회-초코 에듀테크 연구회 조직
 
-### My coding life 🧑‍💻
+## My coding life 🧑‍💻
 - 2019.11.20: My first commit
 - 2021.10.28: 팀 초코 탄생!!! [초등학교사의 코딩 프로젝트](https://sparkly-corleggy-3e4.notion.site/18b5b5b23fb84323b5a2a0b71c9980fd)
 - 2021.12.01: Re:play게임즈 참여(Unity스터디)
@@ -20,7 +20,7 @@
 - 2022.08.02 ~: 코딩 테스트 스터디
 - 2022.09.13 ~: CS 스터디
 
-### My project 👣
+## My project 👣
 - kakao clone [web](https://nlom0218.github.io/kakao-clone-my/) - **nomadcoders**
 - 백만장자 시크릿 - 2020.8.3 ~ 2020.8.15, [web](https://nlom0218.github.io/idea-project-1), [repo](https://github.com/nlom0218/idea-project-1)
 - 숫자야구 - 2020.11.27 ~ 2020.12.2, [web](https://nlom0218.github.io/Bulls-and-Cows/), [repo](https://github.com/nlom0218/Bulls-and-Cows)
@@ -31,7 +31,7 @@
 - quizhi - 2021.7.12 ~ 2021.10.21, [web](https://quiz-hi.com) [frontRepo](https://github.com/nlom0218/quiz-hi2), [backRepo](https://github.com/nlom0218/quiz-hi-backend)
 - teachercan - 2021.11.13 ~ , [web](https://teachercan.com) with team choco
 
-### Learning 🚀
+## Learning 🚀
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
