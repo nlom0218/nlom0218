@@ -18,7 +18,7 @@
 - 2022.07.09: TIL작성 시작! 꾸준히! 👉[TIL바로가기](https://kim-hong-dong.gitbook.io/til/)
 - 2022.07.10 ~ 08.28: 리액트 스터디(zzolab 쪼리1기)
 - 2022.08.02 ~: 코딩 테스트 스터디
-- 2022.09.13 ~: CS 스터디
+- 2022.09.13 ~ 11.01: CS 스터디
 
 ## My project 👣
 - kakao clone [web](https://nlom0218.github.io/kakao-clone-my/) - **nomadcoders**
