@@ -43,8 +43,6 @@ javascript, typescript, react, react-query, styled-components, jest, MSW, storyb
 
 ---
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nlom0218)](https://solved.ac/nlom0218/)
-
 ## Learning 🚀
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
